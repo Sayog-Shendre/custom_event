@@ -98,12 +98,6 @@ A next-generation, interactive event calendar that fuses sleek UI design with ad
 
 ---
 
-## 🧪 Live Demo
-
- 
-📂 [Source Code](https://github.com/Sayog-Shendre/Calender_customize)
-
----
 
 ## 🤝 Contribute
 
